@@ -1,0 +1,27 @@
+
+
+@font-face {
+    font-family: 'Perpetua';
+    src: url('../fonts/Perpetua.eot');
+    src: url('../fonts/Perpetua.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Perpetua.woff2') format('woff2'),
+        url('../fonts/Perpetua.woff') format('woff'),
+        url('../fonts/Perpetua.ttf') format('truetype'),
+        url('../fonts/Perpetua.svg#Perpetua') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zapfino';
+    src: url('../fonts/Zapfino.eot');
+    src: url('../fonts/Zapfino.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Zapfino.woff2') format('woff2'),
+        url('../fonts/Zapfino.woff') format('woff'),
+        url('../fonts/Zapfino.ttf') format('truetype'),
+        url('../fonts/Zapfino.svg#Zapfino') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
